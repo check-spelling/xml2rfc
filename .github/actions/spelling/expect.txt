@@ -1,4 +1,3 @@
-aab
 aattr
 ABBREVS
 abnf
